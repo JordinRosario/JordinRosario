@@ -1,8 +1,7 @@
-### Hi there 👋
-# Angel Jaime
+### Hola 👋
+# Jordin Rosario
 
-<h2 align="center">About me</h2>
-
+<h4 align="center">A cerca de mi</h4>
 ```golang
 package main
 
